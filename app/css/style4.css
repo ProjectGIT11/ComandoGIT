@@ -1,0 +1,17 @@
+body {
+    background: #2A2C30;
+}
+
+.formulario {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 15px;
+}
+
+h3 {
+    font-size-adjust: 3px;
+    font-family: 'Berlin Sans FB Demi', sans-serif;
+    color: #ffffff ;
+}
+
